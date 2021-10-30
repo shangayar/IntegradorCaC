@@ -1,0 +1,54 @@
+@media (max-width:768px){
+    .toggle{
+        display: block;
+    }
+    ul{
+        width: 100%;
+        display: none;
+    }
+    ul li{
+      
+        text-align: center;
+        display: block;
+        
+    }
+    .mobile{
+        display: block;
+    }
+    .title h2{
+        font-size:2rem;
+        text-transform: uppercase;
+    }
+    .servicios{
+        display:flex;
+        flex-flow: row wrap;
+        margin-top: 20px;
+        margin-bottom: 20px;        
+    }
+    .information{
+        flex:60%;
+    }
+    .desc p{
+        text-align: center;
+        font-size: 15px;
+        margin: 20px 100px;
+    }
+    .cliente{
+        display:flex;
+        flex-flow: row wrap;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+}
+@media screen and (min-width:480px) {
+
+}
+
+@media screen and (min-width:768px) {
+
+}
+
+@media screen and (min-width:950px) {
+
+}
