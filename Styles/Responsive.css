@@ -58,6 +58,19 @@
         flex-flow: column wrap;
         justify-content:space-between;    
     }
+    .fondo{
+        display:flex;
+        flex-flow: column nowrap;
+        justify-content: left;
+        background-image:url(/Images/fibraoptica.jpg);
+        background-size: cover;
+        background-position: 25% 75%;
+        background-attachment: fixed;
+        height:30rem;
+        width: 100%;       
+        background-repeat: no-repeat;
+        
+    }
 
 }
 

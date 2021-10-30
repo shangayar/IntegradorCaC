@@ -178,6 +178,9 @@ ul li a{
         flex-flow: column nowrap;
         justify-content: left;
         background-image:url(/Images/fibraoptica.jpg);
+        background-size: cover;
+        background-position: center center;
+        background-attachment: fixed;
         height:30rem;
         width: 100%;       
         background-repeat: no-repeat;
